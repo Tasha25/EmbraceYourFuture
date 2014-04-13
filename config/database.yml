@@ -1,0 +1,17 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: embrace
+  pool: 5
+  host: localhost
+  username:  natashagreen
+  password:
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: embrace
+  pool: 5
+  host: localhost
+  username:  natashagreen
+  password:
